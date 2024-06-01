@@ -1,5 +1,5 @@
 ---
-title: 'NutriSense: Automated Hydroponics Dosing System'
+title: 'Toniya profile Agiecard'
 author: '**Kushagra Tiwari and Shengmin Liu** (website template by Ryan Tsang)'
 date: '*EEC172 WQ24*'
 
