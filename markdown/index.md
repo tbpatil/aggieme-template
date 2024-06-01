@@ -1,13 +1,9 @@
 ---
-title: 'Toniya profile Agiecard'
-author: '**Kushagra Tiwari and Shengmin Liu** (website template by Ryan Tsang)'
-date: '*EEC172 WQ24*'
+title: 'AggieMe for Toniya'
 
-subtitle: '<blockquote><b>EEC172 Final Project Webpage Example</b><br/>
-Note to current students: this is an <i>example</i> webpage and
-may not fulfill all stated requirements of the current quarter''s 
-assignment.<br/>The website source is hosted 
-<a href="https://github.com/ucd-eec172/project-website-example">on github</a>.
+subtitle: '<blockquote><b>Student Information</b>
+<b>The website source is hosted</b>
+<a href="https://github.com/tbpatil/aggieme-template">on github</a>.
 </blockquote>'
 
 toc-title: 'Table of Contents'
