@@ -29,26 +29,4 @@ abstract: '
 '
 ---
 
-# Market Survey
-
-There are two types of similar products on the market. The first one is
-products from AeroGarden. Their products allow users to grow plants in
-nutrient solutions in a limited amount of usually 5 to 10. Compared with
-this product, our product provides an automated system for nutrient
-control that ensures the plant always has the correct amount of
-nutrients needed to avoid excess or insufficient nutrients. The other
-product is an expensive commercial system for horticulture aiming for a
-large scale of growth. Compared with this one, our product has the
-advantage of being cheap and small-scale which is more suitable for
-individual hobbyists to explore hydroponics.
-
-<div style="display:flex;flex-wrap:wrap;justify-content:space-evenly;">
-  <div style='display: inline-block; vertical-align: top;'>
-    <img src="./media/aggiecard.jpg" style="width:auto;height:200"/>
-    <span class="caption">
-      AggieCard
-    </span>
-  </div>
-</div>
-
 
