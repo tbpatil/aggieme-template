@@ -1,7 +1,7 @@
 ---
 title: '<span style="color: #004AAD;">AggieMe for Toniya</span>'
 
-subtitle: '<blockquote><b>Thank you for using AggieMe.</b><br><b>The website source is hosted</b><br><a href="https://github.com/tbpatil/aggieme-template">on github</a>.</blockquote>'
+subtitle: '<blockquote><b>Thank you for using AggieMe.</b><br><b>The website source is hosted</b> <a href="https://github.com/tbpatil/aggieme-template">on github</a>.</blockquote>'
 
 abstract-title: '<h2>Student Information</h2>'
 abstract: '
