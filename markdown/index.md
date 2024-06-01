@@ -1,46 +1,31 @@
 ---
 title: 'AggieMe for Toniya'
 
-subtitle: '<blockquote><b>Student Information</b>
+subtitle: '<blockquote><b>Thank you for using AggieMe.</b><\b>
 <b>The website source is hosted</b>
 <a href="https://github.com/tbpatil/aggieme-template">on github</a>.
 </blockquote>'
 
 toc-title: 'Table of Contents'
-abstract-title: '<h2>Description</h2>'
-abstract: 'Hydroponics is a technique where plants are grown in a nutrient-rich
-solution. This soil- free technique has been gaining traction recently
-due to its ability to optimize resource utilization. However, since
-plants are highly sensitive to changes in TDS, hydroponic setups require
-continuous TDS monitoring and adjustment. NutriSense, our device, allows
-hobbyists to achieve ideal hydroponics results on a small scale. It
-continuously monitors TDS and temperature, allowing the user to remotely
-read the status over AWS IoT cloud. The user can remotely enter upper
-and lower thresholds for TDS, and the device will automatically add
-nutrient solution or water to keep the TDS bounded by the thresholds.
-The device can also be configured to send notifications over SNS when
-the TDS value goes outside thresholds.
-<br/><br/>
-Our source code can be found 
-<!-- replace this link -->
-<a href="https://github.com/ucd-eec172/project-website-example">
-  here (placeholder)</a>.
 
-<div style="display:flex;flex-wrap:wrap;justify-content:space-evenly;padding-top:20px">
-  <div style="display: inline-block; vertical-align: bottom;">
-    <img src="./media/Image_001.jpg" style="width:auto;height:2in"/>
-    <!-- <span class="caption"> </span> -->
+abstract-title: '<h2>Student Information</h2>'
+abstract: '
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <div style="margin-bottom: 10px;">
+    <span style="color: #004AAD; font-weight: bold;">First Name:</span>
+    <span style="color: black;">John</span>
   </div>
-  <div style="display: inline-block; vertical-align: bottom;">
-    <img src="./media/Image_002.jpg" style="width:auto;height:2in" />
-    <!-- <span class="caption"> </span> -->
+  <div style="margin-bottom: 10px;">
+    <span style="color: #004AAD; font-weight: bold;">Last Name:</span>
+    <span style="color: black;">Doe</span>
   </div>
-</div>
-
-<h2>Video Demo</h2>
-<div style="text-align:center;margin:auto;max-width:560px">
-  <div style="padding-bottom:56.25%;position:relative;height:0;">
-    <iframe style="left:0;top:0;width:100%;height:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/wSRtnAEZhmc?si=3vQXNj4h0WkW-F-q" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <div style="margin-bottom: 10px;">
+    <span style="color: #004AAD; font-weight: bold;">Student ID:</span>
+    <span style="color: black;">123456789</span>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <span style="color: #004AAD; font-weight: bold;">Email:</span>
+    <span style="color: black;">john.doe@example.com</span>
   </div>
 </div>
 '
